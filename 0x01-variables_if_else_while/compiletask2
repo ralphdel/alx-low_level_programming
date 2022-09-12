@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 1-last_digit.c
+gcc 1-last_digit.c -o task2exe
