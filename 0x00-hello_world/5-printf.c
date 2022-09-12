@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Use the printf function
+ * main - Using the main function
  *
  * Description: 'Using the main function'
  *this program prints  "with proper grammar, but the outcome is a piece of art"
