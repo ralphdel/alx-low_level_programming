@@ -1,1 +1,2 @@
-1. Changing pointer value 
+Changing pointer value
+Function swaps two integers  
